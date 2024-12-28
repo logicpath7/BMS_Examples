@@ -1,6 +1,6 @@
 # BMS_Examples
 
-Welcome to my repository containing my instructional coding examples.
+Welcome to the Bellingham Makerspace repository containing instructional coding examples.
 
 Sketches:
 
